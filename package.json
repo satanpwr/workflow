@@ -1,5 +1,8 @@
 {
   "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "opn": "^4.0.1"
+  },
+  "dependencies": {}
 }
